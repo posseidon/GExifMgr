@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GExifMgr", "GExifMgr\GExifMgr.csproj", "{AE26885A-929B-4B33-A8EC-94159559C4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{5A2A8F91-582C-4D73-A74C-40672F56A534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE26885A-929B-4B33-A8EC-94159559C4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE26885A-929B-4B33-A8EC-94159559C4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE26885A-929B-4B33-A8EC-94159559C4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE26885A-929B-4B33-A8EC-94159559C4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2A8F91-582C-4D73-A74C-40672F56A534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2A8F91-582C-4D73-A74C-40672F56A534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2A8F91-582C-4D73-A74C-40672F56A534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2A8F91-582C-4D73-A74C-40672F56A534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFDB859-D23A-4B84-A603-2475730B17CD}
+	EndGlobalSection
+EndGlobal
