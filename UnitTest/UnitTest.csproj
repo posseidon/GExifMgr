@@ -21,4 +21,14 @@
     <ProjectReference Include="..\GExifMgr\GExifMgr.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\Landsat_ETM_2001-08-26_multispectral.tif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
