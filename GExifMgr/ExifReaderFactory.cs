@@ -10,7 +10,7 @@
 
         public static IExifReader GetReader(ReaderType Type)
         {
-            return ExifReaders.GetValueOrDefault(Type);
+            return ExifReaders[Type];
         }
     }
 }
